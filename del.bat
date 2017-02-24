@@ -1,0 +1,1 @@
+del *.bak,D:\mywork\gitskill\test\*.bak
